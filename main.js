@@ -652,10 +652,10 @@ function validate(value) {
 }
 
 
-$(window).bind("beforeunload", function(){
+// $(window).bind("beforeunload", function(){
     
-    storeInLocalStorage();
-});
+//     storeInLocalStorage();
+// });
 
 
 
