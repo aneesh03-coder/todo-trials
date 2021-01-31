@@ -51,7 +51,7 @@ const storeInLocalStorage=()=>{
         "uncompleted":uncompleted,
         // "deleted":deleted,
         // "newLists":newLists,
-        "currentSelectedList":currentSelectedList,
+        // "currentSelectedList":currentSelectedList,
         // "currentSelectedListLocation":currentSelectedListLocation,
         // "currentListLocation":currentListLocation,
         // "selectedIcon":selectedIcon,
@@ -68,7 +68,7 @@ const setAllItems=()=>{
         lists=items.lists
         completed=items.completed;
         uncompleted=items.uncompleted;
-        currentSelectedList=items.currentSelectedList;
+        // currentSelectedList=items.currentSelectedList;
     }
    
   }
